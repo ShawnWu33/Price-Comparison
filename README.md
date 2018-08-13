@@ -7,4 +7,5 @@ It just a demo so I only put two websites in comparison. For comparing more stor
 For demostrating the function, you can input "Tefal Garment Steamer" in textbox and click "Search", or item you want to do a price comparison between stores.
 
 Demo:http://shawnwu.pythonanywhere.com/
+
 Source Code:https://github.com/ShawnWu33/Price-Comparison
